@@ -1,6 +1,6 @@
 {
-    "name": "jeet/rock",
-    "description": "Jeet Rock",
+    "name": "jeet-rocktechnolabs/samplemodule",
+    "description": "Jeet Rock sample module",
     "require": {
       "php": "~5.6.0|7.0.2|~7.0.6",
       "magento/module-store": "0.74.0-beta4",
