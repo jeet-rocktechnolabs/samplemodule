@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
+    <menu>
+        <add id="Jeet_Rock::parent" title="Rock" module="Jeet_Rock" sortOrder="100" resource="Jeet_Rock::parent"/>
+        <add id="Jeet_Rock::index" title="Rock Index" module="Jeet_Rock" sortOrder="10" action="rock/index" resource="Jeet_Rock::index" parent="Jeet_Rock::parent"/>
+		
+    </menu>
+</config>
