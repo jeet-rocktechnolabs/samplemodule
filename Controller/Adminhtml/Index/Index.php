@@ -7,7 +7,7 @@ class Index extends \Magento\Backend\App\Action
 {
     public function execute()
     {
-        ehco "test23232323232";exit;
+        ehco "test232";exit;
         // adding code for conflict
         ehco "Jeet Hello";exit;
         $this->_view->loadLayout();
